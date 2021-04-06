@@ -38,7 +38,7 @@ exports.run = async (client, message, args) => {
             timeRemaining: "Tempo Rimasto: **{duration}**!",
             inviteToParticipate: "Regisci con 🎉 per partecipare!",
             winMessage: "Congratulationi, {winners}! hai vinto **{prize}**!",
-            embedFooter: "Giveaways",
+            embedFooter: "Creato Da Calabrese",
             noWinner: "Giveaway cancellato, pochi partecipanti.",
             hostedBy: "Fatto Da: {user}",
             winners: "vincitore(i)",
